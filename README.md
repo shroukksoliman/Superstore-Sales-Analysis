@@ -18,7 +18,7 @@ The project includes data cleaning, data transformation, data modeling, DAX meas
 
 I built a structured data model to organize and connect the main business entities and support accurate analysis and reporting.
 
-"Data Modeling" (data-modeling.png)
+"Data Modeling" (./data-modeling.png)
 
 📈 DASHBOARD PAGES
 
@@ -26,25 +26,25 @@ I built a structured data model to organize and connect the main business entiti
 
 Analyzes sales trends, sales performance, orders, quantity, and key sales KPIs.
 
-"Sales Performance" (sales-performance.png)
+"Sales Performance" (./sales-performance.png)
 
 2. CUSTOMER & GEOGRAPHIC ANALYSIS
 
 Provides insights into customer performance and sales across different regions, states, and cities.
 
-"Customer & Geographic Analysis" (customer-geography.png)
+"Customer & Geographic Analysis" (./customer-geography.png)
 
 3. PROFIT & PRODUCT ANALYSIS
 
 Analyzes profitability and product performance to identify profitable categories, sub-categories, and products.
 
-"Profit & Product Analysis" (profit-product.png)
+"Profit & Product Analysis" (./profit-product.png)
 
 4. SHIPPING & OPERATIONS
 
 Analyzes shipping performance, shipping modes, and operational metrics.
 
-"Shipping & Operations" (shipping-operations.png)
+"Shipping & Operations" (./shipping-operations.png)
 
 📊 KEY KPIs
 
