@@ -1,12 +1,12 @@
 📊 SUPERSTORE SALES ANALYSIS
 
-📌 PROJECT OVERVIEW
+📍 PROJECT OVERVIEW
 
 This project analyzes Superstore sales data using Power BI to understand sales performance, customer behavior, profitability, products, geography, and shipping operations.
 
 The project includes data cleaning, data transformation, data modeling, DAX measures, and interactive dashboard development.
 
-🛠️ TOOLS & TECHNOLOGIES
+🛠 TOOLS & TECHNOLOGIES
 
 - Power BI
 - Power Query
@@ -14,11 +14,11 @@ The project includes data cleaning, data transformation, data modeling, DAX meas
 - Data Modeling
 - Data Visualization
 
-🗂️ DATA MODELING
+🗂 DATA MODELING
 
 I built a structured data model to organize and connect the main business entities and support accurate analysis and reporting.
 
-"Data Modeling" (images/data-model.png)
+"Data Modeling" (DATA%20MODELING.png)
 
 📈 DASHBOARD PAGES
 
@@ -26,25 +26,25 @@ I built a structured data model to organize and connect the main business entiti
 
 Analyzes sales trends, sales performance, orders, quantity, and key sales KPIs.
 
-"Sales Performance" (images/sales-performance.png)
+"Sales Performance" (SALES%20PERFORMANCE.png)
 
 2. CUSTOMER & GEOGRAPHIC ANALYSIS
 
 Provides insights into customer performance and sales across different regions, states, and cities.
 
-"Customer & Geographic Analysis" (images/customer-geography.png)
+"Customer & Geographic Analysis" (CUSTOMER%20%26%20GEOGRAPHY.png)
 
 3. PROFIT & PRODUCT ANALYSIS
 
 Analyzes profitability and product performance to identify profitable categories, sub-categories, and products.
 
-"Profit & Product Analysis" (images/profit-products.png)
+"Profit & Product Analysis" (PROFIT%20%26%20PRODUCT.png)
 
 4. SHIPPING & OPERATIONS
 
 Analyzes shipping performance, shipping modes, and operational metrics.
 
-"Shipping & Operations" (images/shipping-operations.png)
+"Shipping & Operations" (SHIPING%20%26%20OPERATIONS%20%281%29.png)
 
 📊 KEY KPIs
 
